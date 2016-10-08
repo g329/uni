@@ -150,6 +150,7 @@
      <Compile Include="Assets\Scripts\SceneController.cs" />
      <Compile Include="Assets\Scripts\SimpleEnvironment.cs" />
      <Compile Include="Assets\Scripts\State.cs" />
+     <Compile Include="Assets\Scripts\Straight.cs" />
      <Compile Include="Assets\downloads\Allosaurus\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\downloads\Allosaurus\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" />
      <Compile Include="Assets\downloads\Allosaurus\Standard Assets\Image Effects (Pro Only)\ColorCorrectionEffect.cs" />
